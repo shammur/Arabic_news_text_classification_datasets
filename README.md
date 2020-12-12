@@ -12,6 +12,7 @@ This release includes two annotated social media datasets with annotation guidel
   booktitle={Proceedings of the Fifth Arabic Natural Language Processing Workshop},
   pages={226--236},
   year={2020}
-}```
+}
+```
 
 #Data Reader [colab] - coming soon
